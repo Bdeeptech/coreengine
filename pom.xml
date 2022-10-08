@@ -43,7 +43,6 @@
       <url>sftp://propellers.net/maven</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    ...
   </distributionManagement>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
