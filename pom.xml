@@ -31,16 +31,16 @@
     <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
-      <name>Corporate Repository</name>
-      <url>scp://repo/maven2</url>
+      <id>coreengine-release</id>
+      <name>coreengine-release</name>
+      <url>http://ec2-54-83-70-99.compute-1.amazonaws.com:8081/repository/coreengine-release//</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>propSnap</id>
-      <name>Propellors Snapshots</name>
-      <url>sftp://propellers.net/maven</url>
+      <id>coreengine-snapshot</id>
+      <name>coreengine-snapshot</name>
+      <url>http://ec2-54-83-70-99.compute-1.amazonaws.com:8081/repository/coreengine-snapshot/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
