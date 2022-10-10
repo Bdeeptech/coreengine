@@ -33,14 +33,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>coreengine-release</id>
       <name>coreengine-release</name>
-      <url>172.31.26.0:8081/repository/coreengine-release//</url>
+      <url>http://172.31.26.0:8081/repository/coreengine-release//</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>coreengine-snapshot</id>
       <name>coreengine-snapshot</name>
-      <url>172.31.26.0:8081/repository/coreengine-snapshot/</url>
+      <url>http://172.31.26.0:8081/repository/coreengine-snapshot/</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
