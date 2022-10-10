@@ -21,7 +21,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>coreengine-release</id>
       <name>coreengine-release</name>
-      <url>http://172.31.18.247:8081/repository/coreengine-release/</url>
+      <url>http://ec2-54-196-216-220.compute-1.amazonaws.com:8081/repository/coreengine-release/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
